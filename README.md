@@ -35,4 +35,4 @@ Open the project at Eclipse. >> Execute the tests at this order: 1- SignUpUser.j
   		<version>1.2.6</version>
   	</dependency>
   </dependencies>
-</project>
+
