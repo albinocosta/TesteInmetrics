@@ -15,24 +15,3 @@ To be able to run this project you will need:
 
 Open the project at Eclipse. >> Execute the tests at this order: 1- SignUpUser.java; 2- SignInUser.java; 3-CreateEditEraseUser.java. Before start execution, don't forget to update the path for chromedriver in right folder.
 
-# The pom must be
-
-
-  <dependencies>
-  	<dependency>
-  		<groupId>info.cukes</groupId>
-  		<artifactId>cucumber-java</artifactId>
-  		<version>1.2.6</version>
-  	</dependency>
-  	<dependency>
-  		<groupId>org.seleniumhq.selenium</groupId>
-  		<artifactId>selenium-java</artifactId>
-  		<version>3.141.59</version>
-  	</dependency>
-  	<dependency>
-  		<groupId>info.cukes</groupId>
-  		<artifactId>cucumber-junit</artifactId>
-  		<version>1.2.6</version>
-  	</dependency>
-  </dependencies>
-
